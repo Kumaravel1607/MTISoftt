@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Fluttersign</string>
+<string name="facebook_app_id">1465400430981218</string>
+<string name="fb_login_protocol_scheme">fb1465400430981218</string>
+
+<string name="facebook_client_token">134b8af9703a2fc90c3459829ce96436</string>
+</resources>
